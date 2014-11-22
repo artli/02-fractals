@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mandelbrot {
+namespace Julia {
     public class Complex : IEquatable<Complex> {
         public double X, Y;
 
